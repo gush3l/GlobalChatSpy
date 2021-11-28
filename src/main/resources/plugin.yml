@@ -1,0 +1,6 @@
+name: GlobalChatSpy
+version: 1.0
+main: me.gushel.globalchatspy.GlobalChatSpy
+commands:
+  gcspy:
+    description: Toggle GlobalChatSpy

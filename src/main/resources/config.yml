@@ -1,0 +1,9 @@
+Format: '&8&l[&e&lCHAT-SPY] &8&l[&6&l%world%&8&l] &7%player% &8» &f&o%message%'
+Do-Not-Send-Self-Message: false
+Do-Not-Send-If-Permission: false
+Messages:
+  NoPerm: '&cYou can''t do that!'
+  NotPlayer: '&cOnly players can execute this command!'
+  SpyOn: '&eGlobal Chat Spy &aON&e!'
+  SpyOff: '&eGlobal Chat Spy &cOFF&e!'
+  Reloaded: '&aPlugin reloaded!'
